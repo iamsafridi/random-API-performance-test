@@ -34,4 +34,3 @@ This repository contains the files and reports related to the performance testin
 
 [Shahid Afridi]
 
-Feel free to adapt this template to suit your specific project details. Provide clear instructions and findings to make it easy for others to understand and replicate the performance testing process.
