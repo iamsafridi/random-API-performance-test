@@ -17,6 +17,8 @@ This repository contains the files and reports related to the performance testin
 
 
 ## Screenshots
+![screencapture-file-D-apache-jmeter-5-6-3-bin-randomAPI-Reports-index-html-2024-02-06-11_49_44](https://github.com/iamsafridi/random-API-performance-test/assets/82276738/0dfe2e50-d22a-4ac6-889d-917b1e175687)
+
 ## TPS:
 ![load_test_10000](https://github.com/iamsafridi/random-API-performance-test/assets/82276738/1e7f7c5f-735d-421b-ad13-ff00eda8e4db)
 
